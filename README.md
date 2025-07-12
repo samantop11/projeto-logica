@@ -21,7 +21,7 @@ Este é um programa simples em C que te ajuda a calcular o valor das parcelas me
    ./emprestimo
    ```
 
-3. Agora é a hora de interagir! O programa vai te pedir:
+3.O programa vai te pedir:
    - Valor do Empréstimo: Quanto você quer pegar, emprestado?
    - Taxa de Juros Anual: Qual a taxa que será cobrada? (Digite como porcentagem, por exemplo, para 12%, coloque `12`).
    - Número de Parcelas: Em quantas vezes você quer pagar?
@@ -39,6 +39,6 @@ o valor de cada parcela é: 88.89
 ```
 # Dicas
 - Lembre-se: este programa não considera taxas extras ou mudanças no valor do empréstimo ao longo do tempo.
-- É sempre bom revisar as condições do empréstimo antes de tomar alguma decisão!
+- É sempre bom revisar as condições do empréstimo antes de tomar alguma decisão.
 
 Boa sorte com seu empréstimo! 😊
