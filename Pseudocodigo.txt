@@ -1,1 +1,32 @@
 
+Início
+
+    Declarar variáveis:
+        valor_emprestimo (real)
+        taxa_juros_anual (real)
+        taxa_juros_mensal (real)
+        num_parcelas (inteiro)
+        juros_total (real)
+        valor_final (real)
+        prestacao (real)
+
+    Escrever "Digite o valor do empréstimo:"
+    Ler valor_emprestimo
+
+    Escrever "Digite a taxa de juros anual:"
+    Ler taxa_juros_anual
+
+    Escrever "Digite o número de parcelas:"
+    Ler num_parcelas
+
+    Calcular taxa_juros_mensal ← taxa_juros_anual / 12
+
+    Calcular juros_total ← valor_emprestimo * (taxa_juros_mensal / 100)
+
+    Calcular valor_final ← valor_emprestimo + juros_total
+
+    Calcular prestacao ← valor_final / num_parcelas
+
+    Escrever "O valor de cada parcela é:", prestacao
+
+Fim
